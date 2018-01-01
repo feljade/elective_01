@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Web</title>
+		<link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+
+				<table class="table">
+					<tr class="success">
+						<th>
+							ID
+						</th>
+						<th>
+							Lastname
+						</th>
+						<th>
+							Firstname
+						</th>
+						<th>
+							Birthday
+						</th>
+						<th>
+							Age
+						</th>
+						<th>
+							Address
+						</th>
+						<th>
+							Option
+						</th>
+					</tr>
+					<tr>
+						<th>
+							1
+						</th>
+						<th>
+							Licawan
+						</th>
+						<th>
+							Fel
+						</th>
+						<th>
+							03-06-1991
+						</th>
+						<th>
+							26
+						</th>
+						<th>
+							Bulua
+						</th>
+						<th>
+							designer
+						</th>
+					</tr>
+					<tr>
+						<th>
+							2
+						</th>
+						<th>
+							Madrona
+						</th>
+						<th>
+							Boy
+						</th>
+						<th>
+							10-03-1994
+						</th>
+						<th>
+							23
+						</th>
+						<th>
+							Bugo
+						</th>
+						<th>
+							Programmer
+						</th>
+					</tr>
+					<tr>
+						<th>
+							3
+						</th>
+						<th>
+							Paclar
+						</th>
+						<th>
+							Ford
+						</th>
+						<th>
+							02-22-1990
+						</th>
+						<th>
+							27
+						</th>
+						<th>
+							Tagoloan
+						</th>
+						<th>
+							ProjectManager
+						</th>
+					</tr>
+				</table>
+
+				</div>
+			</div>
+		</div>
+	
+
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	</body>
+</html>
